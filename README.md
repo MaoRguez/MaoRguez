@@ -1,4 +1,4 @@
-### Hi, I'm Mauricio 👋 👨‍💻
+<img src="https://github.com/MaoRguez/MaoRguez/blob/main/AboutMao.png?raw=true">
 
 <!--
 **MaoRguez/MaoRguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

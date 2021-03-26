@@ -1,5 +1,8 @@
 <img src="https://github.com/MaoRguez/MaoRguez/blob/main/AboutMao.png?raw=true">
 <p align="left">
+  <a href="https://www.linkedin.com/in/mauricio-rodriguez-avila/" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/linkedin.svg" alt="maorguez" height="28px" width="28px" />
+  </a>
   <a href="https://twitter.com/MaoRguez" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/twitter.svg" alt="maorguez" height="28px" width="28px" />
   </a>

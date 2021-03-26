@@ -8,14 +8,7 @@
 
 ## Find me around the web 🌎:
 <p><img align="left" width="150" height="150" src="https://github.com/MaoRguez/MaoRguez/blob/main/my-octocat-Mauricio.png?raw=true"></p>
-- About me! <p align="left">
-  <a href="https://www.linkedin.com/in/mauricio-rodriguez-avila/" target="blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/linkedin.svg" alt="maorguez" height="28px" width="28px" />
-  </a>
-  <a href="https://twitter.com/MaoRguez" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/twitter.svg" alt="maorguez" height="28px" width="28px" />
-  </a>
-</p>
+- About me! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mauricio-rodriguez-avila/" target="blank" style='margin-right:10px'><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/linkedin.svg" alt="maorguez" height="28px" width="28px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/MaoRguez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/twitter.svg" alt="maorguez" height="28px" width="28px" /></a>
 
 <!--
 **MaoRguez/MaoRguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
